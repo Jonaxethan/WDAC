@@ -9,4 +9,4 @@ In the best case, WDAC operates without blocking legitimate executables. In the 
 
 
 
-[^1]: Microsoft. *Windows Defender Application Control Overview*. https://learn.microsoft.com/windows/security/threat-protection/windows-defender-application-control/wdac-overview
+[^1]: Microsoft. *Wmanage-application-control-infrastructure*. https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/use/manage-application-control-infrastructure
