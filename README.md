@@ -15,8 +15,8 @@ In the best case, WDAC operates without blocking legitimate executables. In the 
 This repository is designed to help you learn WDAC, build a custom WDAC architecture, and safely roll it out in your company.
 
 
-
-[See Architecture](1_Architecture/Architecture.md)
+- 📢 [Disclaimer](3_Literature/Disclaimer.md)
+- 🧾 [See Architecture](1_Architecture/Architecture.md)
 
 
 
